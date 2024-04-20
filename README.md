@@ -1,5 +1,5 @@
 ﻿Graphical Abstract 
-
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/Graphical%20Abstract%20.png)
 
 
 **Purpose of the software**  
@@ -50,7 +50,11 @@ For the random movement of the turtle, first determine the current direction, an
 Character design: I use pixel style for character design, so that the whole process will not be too complicated, and the characters can be presented simply, making the whole game more casual.  
 
 The rabbit and turtle below the picture are the characters will see in the game.
-
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/eater_0_l.png)
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/enemy01.png)
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/enemy02.png)
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/enemy03.png)
+![image](https://github.com/DDClassD/Pac_Rabbit/blob/main/image/enemy_0.png)
 
 **Game code:** 
 
